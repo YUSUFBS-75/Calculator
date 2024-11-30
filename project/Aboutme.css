@@ -1,0 +1,37 @@
+
+div {
+    text-align: center;
+    align-items: center;
+   justify-content: center ;
+   background-color: brown;
+   color: white;
+
+
+}
+
+.hire { color: black;
+
+}
+
+.about{
+  color: ;
+}
+.buttons {
+    align-items: center;
+    color: white;
+    margin: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+
+.fungi {
+
+  font-size: 30px;
+
+}
+
+.id {
+  word-spacing: 15px; 
+  
+}

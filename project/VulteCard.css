@@ -1,0 +1,94 @@
+
+      body {
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+         min-height: 100vh;
+         padding: 0;
+         margin: 0;
+      }    
+      /* div {
+        background-color: rgb(88, 10, 88);
+        border: 1px solid white;
+        height: 250px;
+        width: 430px;
+        border-radius: 20px;
+        margin-left: 20px;
+        margin: auto;
+        align-items: center;
+      } */
+        
+       
+     .card {
+      background-color: purple;
+      border: 1px solid white;
+      height: 300px;
+      width: 430px;
+      border-radius: 20px;
+     }
+    
+     .cardnumber {
+    
+        color: antiquewhite;
+        margin-left: 45px;
+        font-size: 1.8em; 
+        margin-top: 1px;
+     }
+
+     .header-card {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+     }
+    
+     .comp{
+        color:white;
+        margin-right: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 0.8em;
+    }
+    
+    .sublogo{
+        color:  white;
+    
+    
+    }
+     .date{
+        color:  skyblue;
+        margin-left: 45px;
+        line-height: 0%
+     }
+    
+     .name{
+        color:  skyblue;
+        line-height: 50%;
+        margin-left: 45px;
+     }
+    
+    
+    body{
+        background-color: aqua;
+        
+        
+    ;
+    }
+    .logo{
+      height: 35px;
+      width: 35px;
+      object-fit: cover;
+      margin-left: 37px;
+      margin-top: 10px;
+    
+    }
+    .chip{
+      height: 60px;
+      width: 60px;
+      margin-left:30px ;
+       
+    
+    }
+    .vultelogo{ 
+      margin-top: 100px;
+    }

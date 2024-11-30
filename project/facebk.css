@@ -1,0 +1,103 @@
+
+
+body{
+    background-color: rgb(117, 177, 229);
+ }
+ form{
+    background-color: white;
+    text-align: center;
+     width: 400px;
+    margin: auto;
+    padding: 20px; 
+    height: auto;
+    border-radius:10px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    box-shadow: 10px 10px 7px rgba(154, 53, 16, 0.9);
+ }
+ 
+ p{
+    color: #333;
+    background-color: blanchedalmond;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    width: 23rem;
+ }
+ h2{
+    font-size: 25px;
+    font-weight: 400;
+    font-family:sans-serif;
+ }
+ input{
+    width: 23rem;
+    padding: 10px;
+    font-size: 15px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid gray;
+ }
+ .log{
+    background-color: blue;
+    color: white;
+    width: 24.5rem;
+    font-size: 20px;
+    font-weight: 600;
+ }
+ a{
+    color: blue;
+    text-decoration: none;
+
+    
+
+ }
+ 
+    
+ 
+
+ 
+ button{
+    background-color: green;
+    border: none;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 8px; 
+    width:250px;
+    height: 50px;
+    text-justify: auto;
+    margin-left: 70px;
+
+ }
+ hr{
+    co
+ }
+
+.face {
+   height: 200px;
+   width: 200px;
+   border: 0px;
+   border-radius: 50%;
+   background-color: rgb(234, 255, 0);
+   color: blue;
+   text-align: center;
+   align-content: center;
+   margin-left: 250px;
+   background-image: url(./image.png);
+   margin-auto
+   
+ 
+}
+
+.You {
+
+   width: 700px;
+   text-align: left;
+   padding-right: 50px;
+}
+
+.line {
+
+   text-decoration-line:
+}

@@ -1,0 +1,31 @@
+table, tr, th{border: 2px solid black;
+    border-collapse: collapse; 
+}
+table,tr, td{border: 2px solid black;
+    border-collapse: collapse; 
+} 
+
+td {
+    height: 100px;
+    width: 200px;
+}
+.PE{ 
+    color: #fff;
+}
+
+body {
+    background-color: blue;
+}
+p{
+    font-size: 50px;
+}
+p, span, h3{
+   outline: 1px solid brown; 
+}
+span{
+    height: 100px; display: inline-block;
+}
+span{
+    color: red;
+}
+

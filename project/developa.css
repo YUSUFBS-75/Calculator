@@ -1,0 +1,147 @@
+
+
+.one {
+
+    background-color: rgb(249, 205, 7);
+    padding-left: 4rem;
+    /* display: flex ; */
+    font-size:x-large;
+    height: 600px;
+    padding-top: 2rem;
+
+
+    
+}
+
+#view {
+    border: 1px solid black;
+    height: 45px;
+    width:130px ;
+    text-align: center;
+    /* padding-right: 30px; */ 
+    background-color: black;
+    color: white;
+    font-size: large;
+    /* display:  flex; */
+    padding: 2px 30px;
+    align-content: center;
+    text-decoration: none;
+}
+
+img {
+
+    border: 10px solid white;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    
+    }
+
+.first {
+    display: flex;
+    gap: 60rem;
+
+}
+
+.up {
+
+    display: flex;
+    
+}
+
+.main {
+
+    display: inline-flex;
+    gap: 33rem;
+    padding-top: 2rem;
+    margin-top: 0px;
+}
+
+.cont {
+    padding-left: 3rem;
+    padding-top: 1.3rem;
+}
+
+h1 {
+    font-size:3rem;
+}
+
+
+.about {
+
+    background-color: hwb(56 0% 0%);
+    border: 1px solid yellow;
+}
+
+.top {
+
+     padding-top: 3rem;
+     
+
+}
+
+ #hi {
+    font-size: x-large;
+    display: flex;
+    padding-left: 3rem;
+    gap: 15rem;
+    display:flexbox;
+ }
+    
+ #name {
+       font-weight: 900;
+       /* text-decoration: underline ; */
+       text-decoration-color:yellow;
+       text-decoration-line: underline;
+       text-decoration-thickness: 0.3rem;
+
+
+ }
+
+ #nav {
+       background-color:white ;
+       padding: 3px ;
+       position: sticky;
+       width: 100%;
+       display: flex;
+       gap: 55rem;
+       margin: 0px;
+
+    
+
+
+ }
+
+ #second {
+
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 3rem;
+ }
+ 
+   .two {
+     font-size:13rem;
+    font-family: Arial, Helvetica, sans-serif;
+    /* border: 1px solid rgb(255, 255, 0); */
+    background-color: rgb(255, 200, 0);
+    border-radius: 50%;
+    margin-top: px;
+    /* position: relative; */
+    padding-top: 0px;
+    float: none;
+}
+
+#footer {
+
+    display: flex;
+    gap: 10rem;
+    padding-left:3rem ;
+    margin-bottom: 40rem ;
+
+}
+
+
+e
+
+
+

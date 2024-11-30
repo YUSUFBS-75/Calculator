@@ -1,0 +1,96 @@
+
+.all {
+    border: 3px solid black;
+    height: 700px;
+    width: 1500px;
+    position: relative;
+    text-align: center;
+    
+    
+}
+
+.static {
+    border: 1px solid white;
+    background-color: rgb(0, 255, 145);
+    height: 60px;
+    width: 130px;
+    align-content: center;
+    padding: 15px 25px;
+    color: white;
+    font-size: large;
+    position: static;
+    padding-left: 50px;
+    text-align: center;
+
+    
+
+
+}
+.absolute {
+    border: 1px solid white;
+    background-color: purple;
+    height: 80px;
+    width: 150px;
+    align-content: center;
+    padding: 10px 25px;
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    
+    
+
+}
+
+.relative {
+    border: 1px solid white;
+    background-color:rgb(24, 177, 237);
+    height: 60px;
+    width: 150px;
+    align-content: center;
+    padding: 10px 25px;
+    color: white;
+    font-size: large;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    
+
+}
+
+.sticky {
+    border: 1px solid white;
+    background-color: rgb(255, 140, 0);
+    height: 60px;
+    width: 150px;
+    align-content: center;
+    padding:  10px 25px;
+    color: white;
+    font-size: large;
+    position:sticky;
+    
+    
+
+}
+
+.fixed {
+    border: 1px solid white;
+    background-color: rgb(255, 0, 0);
+    height: 60px;
+    width: 150px;
+    justify-content: center;
+    padding: 25px 60px;
+    color: white;
+    font-size: large;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    
+    
+
+}
+
+
+    
+
